@@ -1,0 +1,6 @@
+{
+  "workingDir": "./temp/deploy/",
+  "account": "<!-- STORAGE ACCOUNT NAME -->",
+  "container": "sp-fx-multiple-preconfigured-entries",
+  "accessKey": "<!-- ACCESS KEY -->"
+}

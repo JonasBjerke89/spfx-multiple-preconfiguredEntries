@@ -1,0 +1,29 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "b9c7222d-2a32-4131-8aba-c2d0c1249bb9",
+  "componentType": "WebPart",
+  "version": "0.0.1",
+  "manifestVersion": 2,
+
+  "preconfiguredEntries": [{
+    "groupId": "b9c7222d-2a32-4131-8aba-c2d0c1249bb9",
+    "group": { "default": "Under Development" },
+    "title": { "default": "SpfxMultiplePreconfiguredEntries" },
+    "description": { "default": "spfx-multiple-preconfigured-entries description" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "SpfxMultiplePreconfiguredEntries #1"
+    }
+  },
+  {
+    "groupId": "b9c7222d-2a32-4131-8aba-c2d0c1249bb9",
+    "group": { "default": "Under Development" },
+    "title": { "default": "SpfxMultiplePreconfiguredEntries" },
+    "description": { "default": "spfx-multiple-preconfigured-entries description" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "SpfxMultiplePreconfiguredEntries #2"
+    }
+  }]
+}

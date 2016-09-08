@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "sp-fx-multiple-preconfigured-entries-client-side-solution",
+    "id": "d8872198-4455-4572-84aa-491f15af9d53",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "sp-fx-multiple-preconfigured-entries.spapp"
+  }
+}
